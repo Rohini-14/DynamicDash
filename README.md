@@ -33,7 +33,7 @@ Dynamic Dash is a data-driven web application that provides business intelligenc
 
 ```bash
 git clone <your-repository-url>
-cd Final-year-Project-1-main
+cd DynamicDash
 ```
 
 ### 2. Create and Activate Virtual Environment
